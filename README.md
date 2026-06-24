@@ -7,6 +7,10 @@ A terminal-style portfolio that showcases my background, projects, and skills th
 
 🚀 **Featured Project:** AgriAI - a smart farming decision support system powered by AI.
 
+📚 **Education:** Kibabii University, ALX Africa | Holberton School, and ALX ProDev Backend Engineering.
+
+🛠️ **Project Scope:** AgriAI, backend engineering work, and cybersecurity projects/labs.
+
 🌐 **Live Demo:** Deployed from the `main` branch on Vercel.
 
 ### Built With
@@ -22,8 +26,8 @@ A terminal-style portfolio that showcases my background, projects, and skills th
 
 ### Interactive Commands
 - `aboutme` - Learn about Mudenyo Griffins
-- `education` - Educational background and certifications
-- `experience` - Work experience and capstone project highlights
+- `education` - Educational background, ALX programs, and certifications
+- `experience` - Capstone project and backend/cybersecurity training highlights
 - `skills` - View technical skills and expertise
 - `projects` - Explore cybersecurity, development, and AgriAI projects
 - `social` - Social media and contact links

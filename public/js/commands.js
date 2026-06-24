@@ -16,7 +16,8 @@ let aboutme = [
   "<br>",
   `<li>🔐 I'm a Service Operations & Cybersecurity Specialist passionate about system security and operational excellence.</li>`,
   `<li>🎓 I have completed my B.Sc. Computer Science studies at Kibabii University and am currently awaiting graduation.</li>`,
-  `<li>🏆 Completed Software Engineering program at ALX Africa | Holberton School with honors.</li>`,
+  `<li>🏆 Completed ALX Africa | Holberton School Software Engineering (Backend) and Cybersecurity tracks.</li>`,
+  `<li>🚀 Completed the ALX ProDev Backend Engineering program.</li>`,
   `<li>💻 Experienced in Python, C/C++, Java, JavaScript, and various cybersecurity tools.</li>`,
   `<li>🛡️ Skilled in penetration testing, vulnerability assessment, and security audits.</li>`,
   `<li>📊 Proficient in system monitoring, log analysis, and performance optimization.</li>`,
@@ -73,7 +74,7 @@ let help = [
 let projects = [
   "<br>",
   `<div id="projects-section">`,
-  `<span class='underline'>Cybersecurity Projects</span>`,
+  `<span class='underline'>Cybersecurity Projects & Labs</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
 🛡️ Network Security Assessment
 • Conducted penetration testing on corporate networks
@@ -89,6 +90,11 @@ let projects = [
 • Built custom vulnerability scanning automation scripts
 • Integrated multiple security tools (Nmap, Nessus, Burp Suite)
 • Generated comprehensive security assessment reports
+
+🔎 Incident Response & Traffic Analysis
+• Analyzed packet captures and network flows for suspicious activity
+• Documented incident response steps and containment actions
+• Applied deep packet sniffing and protocol inspection techniques
 </pre>`,
 
   `<span class='underline'>Software Development Projects</span>`,
@@ -97,6 +103,16 @@ let projects = [
 • Built a Laravel and Livewire platform for farm management and decision support
 • Integrated AI chat, pest diagnosis, weather insights, and market price tracking
 • Added farm, crop cycle, task, inventory, and finance modules with testing coverage
+
+⚙️ ALX ProDev Backend Engineering Projects
+• Designed secure backend services and RESTful APIs
+• Worked on database optimization, validation, and production-ready architecture
+• Focused on enterprise-grade backend patterns and maintainability
+
+🧠 ALX Cybersecurity Track Projects
+• Practiced UNIX/Linux administration and shell scripting workflows
+• Explored network security architectures and core cryptography foundations
+• Built familiarity with threat modeling and defensive system analysis
 
 💻 Backend Development
 • RESTful API development using Python and JavaScript
@@ -122,14 +138,14 @@ let skills = [
   `<div id="skills-section">`,
   `<span class='underline'>Programming & Scripting</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Languages: Python, C/C++, Java, JavaScript, Bash
-Frameworks: Backend Development, API Integration
+Languages: Python, C/C++, Java, JavaScript, Bash Shell Scripting
+Frameworks: RESTful API Design, Secure Backend Architecture, API Integration
 Version Control: Git, Advanced Workflow Management
 </pre>`,
 
   `<span class='underline'>Service Operations & Monitoring</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-System Monitoring: Wireshark, Nmap, Network Analysis
+System Monitoring: Wireshark, Nmap, Network Traffic Analysis
 Log Analysis: Advanced log parsing and pattern recognition
 Process Automation: Python scripting, Bash automation
 Performance Optimization: System bottleneck identification
@@ -137,22 +153,22 @@ Performance Optimization: System bottleneck identification
 
   `<span class='underline'>Cybersecurity & Compliance</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Security Tools: Burp Suite, Metasploit, Nessus, John the Ripper
-Frameworks: ITIL understanding, Security compliance
-Risk Assessment: Vulnerability analysis, Threat modeling
+Security Tools: Wireshark, Burp Suite, Nmap, Nessus, Metasploit, SQLmap, John the Ripper
+Frameworks: ITIL understanding, Security compliance, Core cryptography foundations
+Risk Assessment: Vulnerability analysis, Threat modeling, Deep packet sniffing
 Incident Response: Investigation, Documentation, Remediation
 </pre>`,
 
   `<span class='underline'>Database & Analytics</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Database Systems: MySQL, NoSQL (MongoDB), Data Modeling
+Database Systems: MySQL, NoSQL (MongoDB), Firebase Realtime Database, Data Modeling
 Data Analysis: Statistical analysis, Trend identification
 Reporting: Dashboard creation, Real-time monitoring
 </pre>`,
 
   `<span class='underline'>Operating Systems</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-Linux: Debian, Kali, Arch, Parrot OS (Advanced)
+Linux: Advanced Kali Linux, Debian, Arch, Parrot OS
 Windows: Advanced troubleshooting and administration
 UNIX Environment: Command-line proficiency
 </pre>`,
@@ -167,14 +183,17 @@ let education = [
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
 KIBABII UNIVERSITY | 2022 - 2026
 • B.Sc. Computer Science (Completed, awaiting graduation)
-• Focus Area: Networking, Cybersecurity, and Applied Software Development
-• Core Competencies: System Design, Database Management, 
-  Network Security, Artificial Intelligence
+• Registration Number: COM/0065/21
+• Status: Successfully completed all coursework and final examination requirements (Certified June 2026)
+• Core Technical Curriculum: Network Security, Advanced Wireless, Machine Learning, Data Structures & Algorithms (DSA), System Design & Logic, Object-Oriented Programming (Java, C++), and Relational Databases (MySQL)
 
 ALX AFRICA | HOLBERTON SCHOOL | 2023 - 2024
-• Software Engineering (Backend) Program - Completed with Honors
-• Advanced Training: Full-Stack Development, Database Optimization, 
-  System Administration
+• Advanced Software Engineering Program (Backend Specialization) & Cybersecurity Track
+• Core Focus: UNIX/Linux system administration, shell scripting, advanced C systems programming, network security architectures, and core cryptography foundations
+
+ALX PRODEV | BACKEND ENGINEERING PROGRAM
+• Backend Engineering Program
+• Core Focus: Enterprise-level API design, secure backend architectures, production database optimization, and secure data validation frameworks
 </pre>`,
   
   `<span class='underline'>Certifications & Honors</span>`,
@@ -197,14 +216,6 @@ Coursera Specialization:
 let experience = [
   "<br>",
   `<div id="experience-section">`,
-  `<span class='underline'>Cybersecurity & System Analysis</span>`,
-  `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-• Conducted comprehensive penetration testing using industry-standard tools
-• Performed vulnerability assessments and security audits
-• Analyzed system logs for security incidents and performance bottlenecks
-• Developed automated scripts for routine security and operational tasks
-</pre>`,
-
   `<span class='underline'>AgriAI Capstone Project</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
 • Built a smart farming decision support system powered by AI
@@ -213,12 +224,18 @@ let experience = [
 • Wrote feature and unit tests to improve reliability and regression coverage
 </pre>`,
 
-  `<span class='underline'>Data Analysis & Reporting</span>`,
+  `<span class='underline'>ALX ProDev Backend Engineering</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-• Processed and analyzed large datasets for operational insights
-• Created visualization dashboards for real-time system monitoring
-• Developed data integrity validation processes
-• Generated actionable reports for operational decision-making
+• Designed secure backend architectures and production-ready APIs
+• Improved database design, validation, and error handling workflows
+• Applied enterprise-level backend patterns and maintainability practices
+</pre>`,
+
+  `<span class='underline'>Cybersecurity Training & Projects</span>`,
+  `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
+• Practiced incident response, vulnerability assessment, and traffic analysis
+• Worked with network security tools and UNIX/Linux administration workflows
+• Built foundational skill in cryptography, shell scripting, and defensive analysis
 </pre>`,
   "</div>",
   "<br>",
