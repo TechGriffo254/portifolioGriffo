@@ -1,7 +1,11 @@
 # TechGriffo Terminal Portfolio
 
 ## About The Project
-A terminal-style cybersecurity specialist portfolio built to showcase skills and projects through a fun, interactive command-line interface.
+A terminal-style portfolio built to showcase my background, projects, and skills through a fun, interactive command-line interface.
+
+🌱 **Latest Update:** I have completed my B.Sc. Computer Science studies at Kibabii University and am currently awaiting graduation.
+
+🚀 **Featured Project:** AgriAI - a smart farming decision support system powered by AI.
 
 🌐 **Live Demo:** Coming soon on Vercel!
 
@@ -17,11 +21,11 @@ A terminal-style cybersecurity specialist portfolio built to showcase skills and
 ## Portfolio Features
 
 ### Interactive Commands
-- `aboutme` - Learn about Mudenyo Griffins (TechGriffo)
+- `aboutme` - Learn about Mudenyo Griffins
 - `education` - Educational background and certifications
-- `experience` - Work experience and projects
+- `experience` - Work experience and capstone project highlights
 - `skills` - View technical skills and expertise
-- `projects` - Explore cybersecurity and development projects
+- `projects` - Explore cybersecurity, development, and AgriAI projects
 - `social` - Social media and contact links
 - `help` - View all available commands
 
@@ -52,10 +56,10 @@ A terminal-style cybersecurity specialist portfolio built to showcase skills and
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/TechGriffo254/Terminal-Portfolio.git
+git clone https://github.com/TechGriffo254/portifolioGriffo.git
 
 # Navigate to project directory
-cd Terminal-Portfolio
+cd portifolioGriffo
 
 # Start local server (Python)
 python -m http.server 8000

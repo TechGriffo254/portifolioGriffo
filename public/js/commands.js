@@ -15,7 +15,7 @@ let aboutme = [
   `<span class='underline'>Hey, I'm Mudenyo Griffins! 👋</span>`,
   "<br>",
   `<li>🔐 I'm a Service Operations & Cybersecurity Specialist passionate about system security and operational excellence.</li>`,
-  `<li>🎓 Currently pursuing B.Sc. Computer Science at Kibabii University with specialization in Networking & Cybersecurity.</li>`,
+  `<li>🎓 I have completed my B.Sc. Computer Science studies at Kibabii University and am currently awaiting graduation.</li>`,
   `<li>🏆 Completed Software Engineering program at ALX Africa | Holberton School with honors.</li>`,
   `<li>💻 Experienced in Python, C/C++, Java, JavaScript, and various cybersecurity tools.</li>`,
   `<li>🛡️ Skilled in penetration testing, vulnerability assessment, and security audits.</li>`,
@@ -93,6 +93,11 @@ let projects = [
 
   `<span class='underline'>Software Development Projects</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
+🌾 AgriAI - Smart Farming Decision Support System
+• Built a Laravel and Livewire platform for farm management and decision support
+• Integrated AI chat, pest diagnosis, weather insights, and market price tracking
+• Added farm, crop cycle, task, inventory, and finance modules with testing coverage
+
 💻 Backend Development
 • RESTful API development using Python and JavaScript
 • Database optimization and query performance tuning
@@ -160,9 +165,9 @@ let education = [
   `<div id="education-section">`,
   `<span class='underline'>Education</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-KIBABII UNIVERSITY | 2022 - Present
-• B.Sc. Computer Science (In Progress)
-• Specialization: Networking & Cybersecurity
+KIBABII UNIVERSITY | 2022 - 2026
+• B.Sc. Computer Science (Completed, awaiting graduation)
+• Focus Area: Networking, Cybersecurity, and Applied Software Development
 • Core Competencies: System Design, Database Management, 
   Network Security, Artificial Intelligence
 
@@ -200,12 +205,12 @@ let experience = [
 • Developed automated scripts for routine security and operational tasks
 </pre>`,
 
-  `<span class='underline'>Service Operations Projects</span>`,
+  `<span class='underline'>AgriAI Capstone Project</span>`,
   `<pre class="indent-8 whitespace-pre-wrap break-words overflow-x-auto">
-• Implemented monitoring solutions for system performance tracking
-• Created automated reporting dashboards for operational metrics
-• Optimized database queries and system processes for improved efficiency
-• Analyzed service logs to identify and resolve operational issues
+• Built a smart farming decision support system powered by AI
+• Developed modules for farms, crop cycles, tasks, inventory, finances, weather, and market prices
+• Implemented AI assistant and pest diagnosis workflows with fallback handling
+• Wrote feature and unit tests to improve reliability and regression coverage
 </pre>`,
 
   `<span class='underline'>Data Analysis & Reporting</span>`,
