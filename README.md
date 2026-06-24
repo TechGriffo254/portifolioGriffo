@@ -1,13 +1,13 @@
 # TechGriffo Terminal Portfolio
 
 ## About The Project
-A terminal-style portfolio built to showcase my background, projects, and skills through a fun, interactive command-line interface.
+A terminal-style portfolio that showcases my background, projects, and skills through an interactive command-line interface.
 
 🌱 **Latest Update:** I have completed my B.Sc. Computer Science studies at Kibabii University and am currently awaiting graduation.
 
 🚀 **Featured Project:** AgriAI - a smart farming decision support system powered by AI.
 
-🌐 **Live Demo:** Coming soon on Vercel!
+🌐 **Live Demo:** Deployed from the `main` branch on Vercel.
 
 ### Built With
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -43,10 +43,10 @@ A terminal-style portfolio built to showcase my background, projects, and skills
 
 ### Deploy to Vercel
 
-1. **Fork this repository** to your GitHub account
-2. **Sign up/Login to Vercel** at [vercel.com](https://vercel.com)
-3. **Import your repository** from GitHub
-4. **Deploy** - Vercel will automatically detect the project and deploy it
+1. **Sign up/Login to Vercel** at [vercel.com](https://vercel.com)
+2. **Import this GitHub repository**: `TechGriffo254/portifolioGriffo`
+3. **Deploy from the `main` branch** - Vercel will detect the static site automatically
+4. **Use the Vercel dashboard URL** as your live portfolio link after deployment
 
 #### Manual Deployment Steps:
 1. Install Vercel CLI: `npm i -g vercel`
@@ -76,7 +76,7 @@ npx http-server
 
 ## Use This as a Template
 
-You are welcome to use this repository as a **template for your own terminal-style portfolio**!  
+You are welcome to use this repository as a **template for your own terminal-style portfolio**.  
 Feel free to fork it, modify it, and make it your own. Credit is appreciated but not mandatory.
 
 And don't forget to ⭐ the project if you find it helpful!
